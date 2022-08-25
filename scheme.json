@@ -1,0 +1,22 @@
+{
+    "Groups": [
+        {
+            "Name": "Main",
+            "DisplayName": "Configuration",
+            "Elements": [
+                {
+                    "Name": "Wildfire",
+                    "DisplayName": "Enable Beta HUD",
+                    "Description": [
+                        "Enable this to have the beta Secret Rings HUD, disable to have the retail HUD."
+                    ],
+                    "Type": "bool",
+                    "MinValue": null,
+                    "MaxValue": null,
+                    "DefaultValue": "false"
+                }
+            ]
+        }
+    ],    
+    "IniFile": "mod.ini"
+}
